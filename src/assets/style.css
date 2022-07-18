@@ -101,15 +101,16 @@ input.submit-action {
     
 }
 
-input.submit-action:hover {
-    box-shadow: 3px 3px 4px 2px #36bef42b;
-}
+
 
 input.submit-action:focus {
     background: #499fd8;
     color: #fff;
 }
 
+input.submit-action:hover {
+    box-shadow: 3px 3px 4px 2px #36bef42b;
+}
 
 .submit {
     display: flex;

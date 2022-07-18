@@ -21,6 +21,8 @@ body{
     background: rgba(255, 255, 255, 1);
     border-radius:30px;
     box-shadow: 5px 5px 5px #bbbbbb;
+    /* box-shadow:0 4px 6px -1px rgba(0,0,0,0.1),
+    0 2px 4px -1px rgba(0,0,0,0.05); */
     display: flex;
     position: fixed;
 		top: 0;
